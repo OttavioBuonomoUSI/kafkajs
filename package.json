@@ -1,8 +1,8 @@
 {
   "name": "kafkajs",
   "version": "2.2.4",
-  "description": "A modern Apache Kafka client for node.js",
-  "author": "Tulio Ornelas <ornelas.tulio@gmail.com>",
+  "description": "A modern Apache Kafka client for node.js, fork of the original kafkajs library",
+  "author": "Ottavio Buonomo <ottavio.buonomo@live.com>",
   "main": "index.js",
   "types": "types/index.d.ts",
   "license": "MIT",
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tulios/kafkajs.git"
+    "url": "https://github.com/OttavioBuonomoUSI/kafkajs.git"
   },
   "bugs": {
-    "url": "https://github.com/tulios/kafkajs/issues"
+    "url": "https://github.com/OttavioBuonomoUSI/kafkajs/issues"
   },
   "homepage": "https://kafka.js.org",
   "scripts": {
