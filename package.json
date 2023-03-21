@@ -1,6 +1,6 @@
 {
-  "name": "kafkajs",
-  "version": "2.2.4",
+  "name": "kafkajs-custom",
+  "version": "1.0.0",
   "description": "A modern Apache Kafka client for node.js, fork of the original kafkajs library",
   "author": "Ottavio Buonomo <ottavio.buonomo@live.com>",
   "main": "index.js",
